@@ -11,3 +11,5 @@
   <li> <b>experience</b> : 1 year </li>
   <li> <b>Main project</b> : <a href = "https://github.com/Hubadn/shopmanager-bot"> Clique here ;)</a> </li>
 </ul>
+
+<img>
