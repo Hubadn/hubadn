@@ -13,3 +13,9 @@
 </ul>
 
 <img>
+
+<ul>
+  <li>📗 Manager bot : https://github.com/Hubadn/shopmanager-bot </li>
+  <li>📘 Dm-all tools : https://github.com/Hubadn/dmall-tools </li>
+  <li>📙 Old-Gestion bot : https://github.com/Hubadn/superbot-v1 </li>
+</ul>
