@@ -19,3 +19,11 @@
   <li>📘 Dm-all tools : https://github.com/Hubadn/dmall-tools </li>
   <li>📙 Old-Gestion bot : https://github.com/Hubadn/superbot-v1 </li>
 </ul>
+
+<h2>Server & contact</h2>
+
+<ul>
+  <li>Server discord : https://discord.gg/gvZ89WFqcp</li>
+  <li>Discord tag : @legenduser</li>
+  <li>Mail : contact@quelamif.eu</li>
+</ul>
