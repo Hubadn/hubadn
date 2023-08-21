@@ -8,7 +8,7 @@
 <ul>
   <li> <b>Name</b> : adn </li>
   <li> <b>Age</b> : 16 </li>
-  <li> <b>experience</b> : 1 year </li>
+  <li> <b>experience</b> : idk </li>
   <li> <b>Main project</b> : <a href = "https://github.com/Hubadn/shopmanager-bot"> Clique here ;)</a> </li>
 </ul>
 
