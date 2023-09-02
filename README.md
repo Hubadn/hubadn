@@ -24,6 +24,6 @@
 
 <ul>
   <li>Server discord : https://discord.gg/gvZ89WFqcp</li>
-  <li>Discord tag : @legenduser</li>
+  <li>Discord tag : <a href = "https://discord.com/users/709428112739401860">@legenduser</a></li>
   <li>Mail : contact@quelamif.eu</li>
 </ul>
