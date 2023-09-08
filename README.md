@@ -11,7 +11,6 @@
   <li> <b>experience</b> : idk </li>
   <li> <b>Main project</b> : <a href = "https://github.com/Hubadn/shopmanager-bot"> Clique here ;)</a> </li>
 </ul>
-<p>[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Hubadn)](https://github.com/Hubadn)</p>
 <img>
 
 <ul>
