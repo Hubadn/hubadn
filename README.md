@@ -1,4 +1,4 @@
-![userwantyou's Stats](https://github-readme-stats.vercel.app/api?username=userwantyou&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![userwantyou's Stats](https://github-readme-stats.vercel.app/api?username=userwantyou&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) ![userwantyou's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=userwantyou&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) ![userwantyou's Streak](https://github-readme-streak-stats.herokuapp.com/?user=userwantyou&theme=vue-dark&hide_border=false)
 
 <h1> hi 👋</h1>
 
