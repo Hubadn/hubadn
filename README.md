@@ -19,7 +19,7 @@
   <li>📙 Old-Gestion bot : https://github.com/Hubadn/superbot-v1 </li>
 </ul>
 <h2>Stats</h2>
-<p>![userwantyou's Stats](https://github-readme-stats.vercel.app/api?username=userwantyou&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)</p>
+![userwantyou's Stats](https://github-readme-stats.vercel.app/api?username=userwantyou&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 <h2>Server & contact</h2>
 
 <ul>
