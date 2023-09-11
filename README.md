@@ -1,12 +1,12 @@
 <h1> hi 👋</h1>
 
-<img src= "https://media.discordapp.net/attachments/1135971296774193223/1142115334392909844/Sans_titre-1.png?width=1440&height=480">
+<img src= "https://media.discordapp.net/attachments/1135971296774193223/1150860470950039603/banner-1.jpg">
 
 
 <h2>About me ;)</h2>
 
 <ul>
-  <li> <b>Name</b> : adn </li>
+  <li> <b>Name</b> : ?  </li>
   <li> <b>Age</b> : 16 </li>
   <li> <b>experience</b> : idk </li>
   <li> <b>Main project</b> : <a href = "https://github.com/Hubadn/shopmanager-bot"> Clique here ;)</a> </li>
