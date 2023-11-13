@@ -9,7 +9,7 @@
   <li> <b>Name</b> : ?  </li>
   <li> <b>Age</b> : 16 </li>
   <li> <b>experience</b> : idk </li>
-  <li> <b>Main project</b> : <a href = "https://github.com/Hubadn/shopmanager-bot"> Clique here ;)</a> </li>
+  <li> <b>Main project</b> : <a href = "https://github.com/Hubadn/looks"> Clique here ;)</a> </li>
 </ul>
 <img>
 
