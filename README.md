@@ -1,5 +1,3 @@
-![userwantyou's Stats](https://github-readme-stats.vercel.app/api?username=loveonyou&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)  ![userwantyou's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loveonyou&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) 
-
 <h1> hi 👋</h1>
 
 <img src= "https://media.discordapp.net/attachments/1135971296774193223/1150860470950039603/banner-1.jpg">
