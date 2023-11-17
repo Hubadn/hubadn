@@ -30,3 +30,6 @@
   <li>Discord tag : <a href = "https://discord.com/users/709428112739401860">@legenduser</a></li>
   <li>Mail : contact@quelamif.eu</li>
 </ul>
+
+
+[![](https://visitcount.itsvg.in/api?id=loveonyou&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
